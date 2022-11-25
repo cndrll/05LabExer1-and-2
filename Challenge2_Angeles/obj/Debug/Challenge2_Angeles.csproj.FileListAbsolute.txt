@@ -1,0 +1,11 @@
+C:\Users\ComputerLab4PC1\Documents\Challenge2_Angeles\bin\Debug\Challenge2_Angeles.exe.config
+C:\Users\ComputerLab4PC1\Documents\Challenge2_Angeles\bin\Debug\Challenge2_Angeles.exe
+C:\Users\ComputerLab4PC1\Documents\Challenge2_Angeles\bin\Debug\Challenge2_Angeles.pdb
+C:\Users\ComputerLab4PC1\Documents\Challenge2_Angeles\obj\Debug\Challenge2_Angeles.csprojAssemblyReference.cache
+C:\Users\ComputerLab4PC1\Documents\Challenge2_Angeles\obj\Debug\Challenge2_Angeles.FrmRegistration2.resources
+C:\Users\ComputerLab4PC1\Documents\Challenge2_Angeles\obj\Debug\Challenge2_Angeles.FrmStudentRecord.resources
+C:\Users\ComputerLab4PC1\Documents\Challenge2_Angeles\obj\Debug\Challenge2_Angeles.Properties.Resources.resources
+C:\Users\ComputerLab4PC1\Documents\Challenge2_Angeles\obj\Debug\Challenge2_Angeles.csproj.GenerateResource.cache
+C:\Users\ComputerLab4PC1\Documents\Challenge2_Angeles\obj\Debug\Challenge2_Angeles.exe
+C:\Users\ComputerLab4PC1\Documents\Challenge2_Angeles\obj\Debug\Challenge2_Angeles.pdb
+C:\Users\ComputerLab4PC1\Documents\Challenge2_Angeles\obj\Debug\Challenge2_Angeles.FrmFileName.resources
